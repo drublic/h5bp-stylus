@@ -410,8 +410,6 @@ td {
     color: #000 !important;
     box-shadow: none !important;
     text-shadow: none !important;
-    filter: none !important;
-    -ms-filter: none !important;
   }
   a,
   a:visited {
